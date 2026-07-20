@@ -23,7 +23,7 @@ def welcomeScreen():
     playery = int((SCREENHEIGHT - GAME_SPRITES['player'].get_height())/2)  
     messagex = int((SCREENWIDTH - GAME_SPRITES['message'].get_width())/2)
     messagey = int(SCREENHEIGHT*0.13)   
-    basex = 0
+    basex = 0 #how are u
     
     while True:
         for event in pygame.event.get():
