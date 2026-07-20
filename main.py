@@ -12,7 +12,7 @@ GAME_SPRITES={}
 GAME_SOUNDS={}
 PLAYER = 'gallery/sprites/brid.png'
 BACKGROUND = 'gallery/sprites/background.png'
-BUILDING = 'gallery/sprites/building.png'
+BUILDING = 'gallery/sprites/building.png' #images 
 
 def welcomeScreen():
     """
